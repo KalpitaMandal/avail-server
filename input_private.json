@@ -1,8 +1,0 @@
-{
-    "public": "2u64",
-    "secret": {
-        "private": "true",
-        "address": "aleo1rn636g94mx3qqhf7m79nsne3llv4dqs25707yhwcrk92p0kwrc9qe392wg", 
-        "amount": "3u64"
-    }
-}
